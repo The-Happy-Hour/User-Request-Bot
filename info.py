@@ -1,0 +1,4 @@
+API_ID = "123"
+API_HASH = ""
+BOT_TOKEN = ""
+ADMIN_ID = ""
